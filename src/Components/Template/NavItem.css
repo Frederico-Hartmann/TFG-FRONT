@@ -1,0 +1,12 @@
+a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    padding: 7px;
+    font-weight: 300;
+}
+
+a:hover {
+    background-color: #00688B;
+    color: white;
+}
